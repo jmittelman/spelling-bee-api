@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 mongoose.Promise = Promise;
 
 mongoose
-  .connect("monogdb://localhost", { useNewURLParser: true })
+  .connect("mongodb://localhost/spelling_bee_db", { useNewUrlParser: true })
   .then(conn => {
     console.log(`connected to mongodb on ${conn.connections[0].name} db`);
   })

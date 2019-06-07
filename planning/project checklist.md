@@ -2,21 +2,21 @@
 
 ### Documentation
 
-- [ ] create project repository
-- [ ] create planning directory
+- [x] create project repository
+- [x] create planning directory
 
   - add proposal
   - add erd
 
-- [ ] create ReadMe file
+- [x] create ReadMe file
 
   - document all routes (using swagger or apidoc?)
 
 ### Process
 
-- [ ] install dependencies
-- [ ] create data files
-- [ ] create models
+- [x] install dependencies
+- [x] create data files
+- [x] create models
 - [ ] create index
 - [ ] create controllers
 - [ ] seed database
