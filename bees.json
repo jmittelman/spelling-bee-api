@@ -1,0 +1,91 @@
+[
+  {
+    "year": 2000,
+    "champion": "George Abraham Thampy"
+  },
+  {
+    "year": 2001,
+    "champion": "Sean Conley"
+  },
+  {
+    "year": 2002,
+    "champion": "Pratyush Buddiga"
+  },
+  {
+    "year": 2003,
+    "champion": "Sai R. Gunturi"
+  },
+  {
+    "year": 2004,
+    "champion": "David Tidmarsh"
+  },
+  {
+    "year": 2005,
+    "champion": "Anurag Kashyap"
+  },
+  {
+    "year": 2006,
+    "champion": "Kerry Close"
+  },
+  {
+    "year": 2007,
+    "champion": "Evan M. O'Dorney"
+  },
+  {
+    "year": 2008,
+    "champion": "Sameer Mishra"
+  },
+  {
+    "year": 2009,
+    "champion": "Kavya Shivashankar"
+  },
+  {
+    "year": 2010,
+    "champion": "Anamika Veeramani"
+  },
+  {
+    "year": 2011,
+    "champion": "Sukanya Roy"
+  },
+  {
+    "year": 2012,
+    "champion": "Snigdha Nandipati"
+  },
+  {
+    "year": 2013,
+    "champion": "Arvind Mahankali"
+  },
+  {
+    "year": 2014,
+    "champion": ["Ansun Sujoe", "Sriram Hathwar"]
+  },
+  {
+    "year": 2015,
+    "champion": ["Gokul Venkatachalam", "Vanya Shivashankar"]
+  },
+  {
+    "year": 2016,
+    "champion": ["Jairam Hathwar", "Nihar Janga"]
+  },
+  {
+    "year": 2017,
+    "champion": "Ananya Vinay"
+  },
+  {
+    "year": 2018,
+    "champion": "Karthik Nemmani"
+  },
+  {
+    "year": 2019,
+    "champion": [
+      "Rishik Gandhasri",
+      "Erin Howard",
+      "Abhijay Kodali",
+      "Shruthika Padhy",
+      "Rohan Raja",
+      "Christopher Serrao",
+      "Sohum Sukhatankar",
+      "Saketh Sundar"
+    ]
+  }
+]
