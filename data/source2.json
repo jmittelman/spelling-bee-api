@@ -1,0 +1,217 @@
+[
+  {
+    "year": 2000,
+    "champion": {
+        "name": "George Abraham Thampy",
+        "sponsor":"St. Louis Post-Dispatch, St. Louis, Missouri",
+        "winningword": "demarche",
+    "sponsor": "St. Louis Post-Dispatch, St. Louis, Missouri",
+    "definition": "any formal or informal representation or statement of views to a public official."
+  },
+  {
+    "year": 2001,
+    "word": "succedaneum",
+    "champion": "Sean Conley",
+    "sponsor": "Aitkin Independent Age, Aitkin, Minnesota",
+    "definition": "one that comes next after or replaces another in an office, position or role."
+  },
+  {
+    "year": 2002,
+    "word": "prospicience",
+    "champion": "Pratyush Buddiga",
+    "sponsor": "Rocky Mountain News, Denver, Colorado",
+    "definition": "the act of looking forward : foresight."
+  },
+  {
+    "year": 2003,
+    "word": "pococurante",
+    "champion": "Sai R. Gunturi",
+    "sponsor": "The Dallas Morning News, Dallas, Texas",
+    "definition": "not concerned : indifferent : nonchalant."
+  },
+  {
+    "year": 2004,
+    "word": "autochthonous",
+    "champion": "David Tidmarsh",
+    "sponsor": "South Bend Tribune, South Bend, Indiana",
+    "definition": "indigenous, native, aboriginal—used especially of floras and faunas."
+  },
+  {
+    "year": 2005,
+    "word": "appoggiatura",
+    "champion": "Anurag Kashyap",
+    "sponsor": "San Diego Union-Tribune, San Diego, California",
+    "definition": "an accessory embellishing note or tone preceding an essential melodic note or tone and usually written as a note of smaller size."
+  },
+  {
+    "year": 2006,
+    "word": "Ursprache",
+    "champion": "Kerry Close",
+    "sponsor": "Asbury Park Press/Home News Tribune, Asbury Park, New Jersey",
+    "definition": "a parent language; especially : one reconstructed from the evidence of later languages."
+  },
+  {
+    "year": 2007,
+    "word": "serrefine",
+    "champion": "Evan M. O'Dorney",
+    "sponsor": "Contra Costa Times, Walnut Creek, California",
+    "definition": "a small forceps for clamping a blood vessel."
+  },
+  {
+    "year": 2008,
+    "word": "guerdon",
+    "champion": "Sameer Mishra",
+    "sponsor": "Journal and Courier, Lafayette, Indiana",
+    "definition": "something that one has earned or gained : a reward : a recompense : a requital."
+  },
+  {
+    "year": 2009,
+    "word": "Laodicean",
+    "champion": "Kavya Shivashankar",
+    "sponsor": "The Olathe News, Olathe, Kansas",
+    "definition": "lukewarm or indifferent in religion or politics."
+  },
+  {
+    "year": 2010,
+    "word": "stromuhr",
+    "champion": "Anamika Veeramani",
+    "sponsor": "The Plain Dealer, Cleveland, Ohio",
+    "definition": "an instrument for measuring the flow of viscous substances designed to measure the amount and speed of blood flow through an artery."
+  },
+  {
+    "year": 2011,
+    "word": "cymotrichous",
+    "champion": "Sukanya Roy",
+    "sponsor": "Times Leader, Wilkes-Barre, Pennsylvania",
+    "definition": "having the hair wavy."
+  },
+  {
+    "year": 2012,
+    "word": "guetapens",
+    "champion": "Snigdha Nandipati",
+    "sponsor": "U-T San Diego, San Diego, California",
+    "definition": "an ambush : a snare : a trap."
+  },
+  {
+    "year": 2013,
+    "word": "knaidel",
+    "champion": "Arvind Mahankali",
+    "sponsor": "Daily News, New York, New York",
+    "definition": "a small mass of leavened dough cooked by boiling or steaming (as with soup, stew or fruit with which it is to be served) : a dumpling."
+  },
+  {
+    "year": 2014,
+    "multiple": true,
+    "first": {
+      "word": "feuilleton",
+      "champion": "Ansun Sujoe",
+      "sponsor": "Texas Christian University, Fort Worth, Texas",
+      "definition": "a part of a European newspaper or magazine devoted to material designed to entertain the general reader : a feature section."
+    },
+    "second": {
+      "word": "stichomythia",
+      "champion": "Sriram Hathwar",
+      "sponsor": "Corning Rotary Club, Corning, New York",
+      "definition": "dialogue especially of altercation or dispute delivered in alternating lines (as in classical Greek drama)."
+    }
+  },
+  {
+    "year": 2015,
+    "multiple": true,
+    "first": {
+      "word": "nunatak",
+      "champion": "Gokul Venkatachalam",
+      "sponsor": "St. Louis Post-Dispatch, St. Louis, Missouri",
+      "definition": "a hill or mountain completely surrounded by glacial ice."
+    },
+    "second": {
+      "word": "scherenschnitte",
+      "champion": "Vanya Shivashankar",
+      "sponsor": "The Olathe News, Olathe, Kansas",
+      "definition": "the art of cutting paper into decorative designs."
+    }
+  },
+  {
+    "year": 2016,
+    "multiple": true,
+    "first": {
+      "word": "Feldenkrais",
+      "champion": "Jairam Hathwar",
+      "sponsor": "Corning Rotary Club, Corning, New York",
+      "definition": "— used for a system of aided body movements intended to increase body awareness and ease tension."
+    },
+    "second": {
+      "word": "gesellschaft",
+      "champion": "Nihar Janga",
+      "sponsor": "Houston Public Media, Houston, Texas",
+      "definition": "a rationally developed mechanistic type of social relationship characterized by impersonally contracted associations between persons."
+    }
+  },
+
+  {
+    "year": 2017,
+    "word": "marocain",
+    "champion": "Ananya Vinay",
+    "sponsor": "The Fresno Bee, Fresno, California",
+    "definition": "a dress fabric of ribbed crêpe, made of silk or wool or both."
+  },
+  {
+    "year": 2018,
+    "word": "koinonia",
+    "champion": "Karthik Nemmani",
+    "sponsor": "Scogains Middle School, McKinney, Texas",
+    "definition": "Christian fellowship or communion, with God or, more commonly, with fellow Christians."
+  },
+  {
+    "year": 2019,
+    "multiple": true,
+    "first": {
+      "word": "auslaut",
+      "champion": "Rishik Gandhasri",
+      "sponsor": "Bay Area Regional Spelling Bee, San Jose, California",
+      "definition": "final position."
+    },
+    "second": {
+      "word": "erysipelas",
+      "champion": "Erin Howard",
+      "sponsor": "Adventure Travel, Huntsville, Alabama",
+      "definition": "an acute, sometimes recurrent disease caused by a bacterial infection characterized by large, raised red patches on the skin, with fever and severe general illness."
+    },
+    "third": {
+      "word": "palama",
+      "champion": "Abhijay Kodali",
+      "sponsor": "Dallas Sports Commission, Dallas, Texas",
+      "definition": "the webbing on the feet of aquatic birds."
+    },
+    "fourth": {
+      "word": "aiguillette",
+      "champion": "Shruthika Padhy",
+      "sponsor": "Rosa International Middle School, Cherry Hill, New Jersey",
+      "definition": "an ornament on some military and naval uniforms, consisting of braided loops hanging from the shoulder and on dress uniforms ending in points."
+    },
+    "fifth": {
+      "word": "odylic",
+      "champion": "Rohan Raja",
+      "sponsor": "Dallas Sports Commission, Dallas, Texas",
+      "definition": "of or relating to a force or natural power formerly held by some to reside in certain individuals and things and to underlie hypnotism and magnetism and some other phenomena."
+    },
+    "sixth": {
+      "word": "cernuous",
+      "champion": "Christopher Serrao",
+      "sponsor": "Discover Lehigh Valley, Whitehouse Station, New Jersey",
+      "definition": "inclining or nodding : pendulous, drooping."
+    },
+    "seventh": {
+      "word": "pendeloque",
+      "champion": "Sohum Sukhatankar",
+      "sponsor": "Dallas Sports Commission, Dallas, Texas",
+      "definition": "a diamond or other gemstone cut in the form of a pear-shaped brilliant with a table."
+    },
+    "eigth": {
+      "word": "bougainvillea",
+      "champion": "Saketh Sundar",
+      "sponsor": "Howard County Library, Clarksville, Maryland",
+      "definition": "any of a genus (Bougainvillaea) of the four-o'clock family of ornamental tropical American woody vines and shrubs with brilliant purple or red floral bracts."
+    }
+  }
+]
