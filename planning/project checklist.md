@@ -8,7 +8,7 @@
   - add proposal
   - add erd
 
-- [x] create ReadMe file
+- [ ] create ReadMe file
 
   - document all routes (using swagger or apidoc?)
 
@@ -17,9 +17,9 @@
 - [x] install dependencies
 - [x] create data files
 - [x] create models
-- [ ] create index
-- [ ] create controllers
-- [ ] seed database
+- [x] create index
+- [x] create controllers
+- [x] seed database
 - [ ] create routes
 
 ### Completion

@@ -4,6 +4,7 @@
   "description": ">An api built to interact with results data of the Scripps National Spelling Bee",
   "main": "index.js",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.5.13",
     "nodemon": "^1.19.1"
