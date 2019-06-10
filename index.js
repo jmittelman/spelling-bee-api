@@ -19,8 +19,14 @@ app.use("/api/bees/", beesController);
 app.use("/api/champions/", championsController);
 app.use("/api/sponsors/", sponsorsController);
 
-app.listen(8082, () => {
-  console.log("app listening on port 8082");
+app.set("port", process.env.PORT || 8080);
+
+app.listen(app.get("port"), () => {
+  console.log(`✅ PORT: ${app.get("port")} 🌟`);
 });
+
+// app.listen(8082, () => {
+//   console.log("app listening on port 8082");
+// });
 
 module.exports = app;

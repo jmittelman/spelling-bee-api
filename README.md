@@ -20,7 +20,7 @@ Deployed via Heroku. Hosted by MongoDB Atlas.
 
 ## Dependencies
 
-express, mongoose, nodemon
+express, mongoose, nodemon, cors
 
 ## Current Features
 
