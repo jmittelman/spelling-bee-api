@@ -4,7 +4,7 @@
 
 An api built to interact with results data of the Scripps National Spelling Bee for the years 2000-2019.
 
-![Api Screenshot]
+[Screencast](https://youtu.be/rZpzYlnDu88)
 
 The api draws on data originally shared online by [the competition](http://spellingbee.com/) and scraped and made more user-friendly by statistician Christopher Long:
 
