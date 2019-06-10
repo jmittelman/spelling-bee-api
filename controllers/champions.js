@@ -6,14 +6,14 @@ const Champion = require("../models/Champion");
 //find all champions
 
 router.get("/", (req, res) => {
-  Champion.find({}).then(allChampions => res.json(allChampions));
+  Champion.find({}).then(index => res.json(index));
 });
 
 //find a champion by name
 
 router.get("/:name", (req, res) => {
-  Champion.find({ name: req.params.name }).then(champions =>
-    res.json(champions)
+  Champion.find({ name: req.params.name }).then(getByName =>
+    res.json(getByName)
   );
 });
 
@@ -21,7 +21,7 @@ router.get("/:name", (req, res) => {
 
 router.post("/", (req, res) => {
   const newChampion = req.body;
-  Champion.create(req.body).then(champion => res.json(champion));
+  Champion.create(req.body).then(newChampion => res.json(newChampion));
 });
 
 //update champion after looking up by name
@@ -37,8 +37,8 @@ router.put("/:name", (req, res) => {
 //delete champion after looking up by name
 
 router.delete("/:name", (req, res) => {
-  Champion.findOneAndDelete({ name: req.params.name }).then(champion => {
-    res.json(champion);
+  Champion.findOneAndDelete({ name: req.params.name }).then(deletedChampion => {
+    res.json(deletedChampion);
   });
 });
 

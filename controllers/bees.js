@@ -5,15 +5,15 @@ const Bee = require("../models/Bee");
 
 // List all bees
 router.get("/", (req, res) => {
-  Bee.find({}).then(bees => {
-    res.json(bees);
+  Bee.find({}).then(index => {
+    res.json(index);
   });
 });
 
 // List a bee by year
 router.get("/:year", (req, res) => {
-  Bee.findOne({ year: req.params.year }).then(bee => {
-    res.json(bee);
+  Bee.findOne({ year: req.params.year }).then(getByYear => {
+    res.json(getByYear);
   });
 });
 
@@ -23,35 +23,19 @@ router.post("/", (req, res) => {
   Bee.create(req.body).then(newBee => res.json(newBee));
 });
 
-// router.post("/new", (req, res) => {
-//   Bee.create(req.body.user).then(newBee => {
-//     Champion.create(req.body.champion).then(newChampionv => {
-//       Sponsor.create(req.body.sponsor).then(newSponsor => {
-//         newBee.champion.push(newChampion._id);
-//         newChampion.sponsor === newSponsor._id;
-
-//         newBee.save();
-//         newChampion.save();
-//         newSponsor.save();
-//         res.json(newBee);
-//       });
-//     });
-//   });
-// });
-
-//update by year
+// update a bee by id
 
 router.put("/:id", (req, res) => {
-  Bee.findOneAndUpdate({ _id: req.params.id }, req.body).then(newRecord => {
-    res.json(newRecord);
+  Bee.findOneAndUpdate({ _id: req.params.id }, req.body).then(updatedBee => {
+    res.json(updatedBee);
   });
 });
 
-//delete
+//delete by id
 
 router.delete("/:id", (req, res) => {
-  Bee.findOneAndDelete({ _id: req.params.id }).then(deleted => {
-    res.json(deleted);
+  Bee.findOneAndDelete({ _id: req.params.id }).then(deletedBee => {
+    res.json(deletedBee);
   });
 });
 

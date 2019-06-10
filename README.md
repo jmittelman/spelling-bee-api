@@ -28,6 +28,32 @@ express, mongoose, nodemon
 
 - Incorporates complete CRUD functionality implemented with RESTful routes:
 
-## Wish List
+## Routes for Bees
 
-In the future I hope to develop further functionality including:
+|    Name    |      Path       | HTTP Verb |                  Purpose                  |
+| :--------: | :-------------: | :-------: | :---------------------------------------: |
+|   index    |   /api/bees/    |    GET    |             Displays all Bees             |
+| getByYear  | /api/bees/:year |    GET    |       Displays one Bee by the year        |
+|   newBee   |    /api/bees    |   POST    |  creates a new Bee using data from body   |
+| updatedBee |  /api/bees/:id  |    PUT    | Edit an existing Bee using data from body |
+| deletedBee |  /api/bees/:id  |  DELETE   |       Delete an existing Bee by id        |
+
+## Routes for Champions
+
+|      Name       |         Path         | HTTP Verb |                    Purpose                     |
+| :-------------: | :------------------: | :-------: | :--------------------------------------------: |
+|      index      |   /api/champions/    |    GET    |             Displays all Champions             |
+|    getByName    | /api/champions/:name |    GET    |         Displays one Champion by name          |
+|   newChampion   |    /api/champions    |   POST    |  creates a new Champion using data from body   |
+| updatedChampion | /api/champions/:name |    PUT    | Edit an existing Champion using data from body |
+| deletedChampion | /api/champions/:name |  DELETE   |      Delete an existing Champion by name       |
+
+## Routes for Sponsors
+
+|      Name      |         Path         | HTTP Verb |                    Purpose                    |
+| :------------: | :------------------: | :-------: | :-------------------------------------------: |
+|     index      |    /api/sponsors/    |    GET    |             Displays all Sponsors             |
+|    getById     |  /api/sponsors/:id   |    GET    |          Displays one Sponsor by id           |
+|   newSponsor   |    /api/sponsors     |   POST    |  creates a new Sponsor using data from body   |
+| updatedSponsor | /api/champions/:name |    PUT    | Edit an existing Sponsor using data from body |
+| deletedSponsor | /api/champions/:name |  DELETE   |      Delete an existing Sponsor by name       |
